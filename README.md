@@ -4,4 +4,4 @@ Esse repositório foi criado para o seguinte projeto de Iniciação Científica:
 
 ### Estrutura do repositório
 
-`R` contém os scripts na linguagem R
+`R` contém os scripts na linguagem R (os scripts são enumerados na ordem que devem ser executados)
